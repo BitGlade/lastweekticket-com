@@ -1,8 +1,8 @@
 {
-    "title": "Coming Soon",
-    "name": "startbootstrap-coming-soon",
+    "title": "LastWeekTicket.com",
+    "name": "lastweekticket-com",
     "version": "4.1.1",
-    "description": "Coming Soon is a Bootstrap 4 coming soon page theme.",
+    "description": "LastWeekTicket.com - John Oliver parody site.",
     "keywords": [
         "css",
         "sass",
@@ -12,23 +12,13 @@
         "template"
     ],
     "homepage": "https://startbootstrap.com/template-overviews/coming-soon",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-coming-soon/issues",
-        "email": "feedback@startbootstrap.com"
-    },
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    "author": "BitGlade",
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-coming-soon.git"
+        "url": "https://github.com/BitGlade/lastweekticket-com.git"
     },
     "dependencies": {
-        "bootstrap": "4.1.1",
-        "font-awesome": "4.7.0",
-        "jquery": "3.3.1",
         "vide": "^0.5.1"
     },
     "devDependencies": {
@@ -36,8 +26,8 @@
         "gulp": "^3.9.1",
         "gulp-clean-css": "3.9.4",
         "gulp-header": "2.0.5",
-        "gulp-rename": "^1.2.2",
-        "gulp-sass": "4.0.1",
+        "gulp-rename": "^1.2.3",
+        "gulp-sass": ">=4.0.1",
         "gulp-uglify": "3.0.0"
     }
 }
