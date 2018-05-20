@@ -11,5 +11,4 @@
         playbackRate: 4,
         //muted: false
       });
-
 })(jQuery); // End of use strict
